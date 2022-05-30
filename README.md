@@ -19,6 +19,7 @@
 - DataTable.js
 - Vue.js
 - Vue router
+- json server на glitch.com
 
 
 ![rating](https://romank123.github.io/images/io-vue-project.jpg)
