@@ -11,7 +11,7 @@ import ReturnBook from "../views/books/returnbook.vue"
 
 const routes = [
   {
-    path: '/online-library-vue/',
+    path: '/',
     name: 'StudentList',
     component: StudentList
   },
