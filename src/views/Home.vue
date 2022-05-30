@@ -53,7 +53,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <router-link to="/online-library-vue/" class="nav-link">
+                <router-link to="/" class="nav-link">
                   <i class="fa fa-user-friends nav-icon"></i>
                   <p>Список студентов</p>
                 </router-link>
